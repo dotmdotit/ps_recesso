@@ -1,0 +1,18 @@
+NEW ONLINE WITHDRAWAL STATEMENT
+
+A customer has exercised the right of withdrawal using the “Withdraw from contract here” function. Replying to this email will write directly to the customer.
+
+Request number: #{request_id}
+Date and time sent: {submitted_at}
+Order: {order_line}
+Consumer: {customer_name}
+Email: {customer_email}
+Products:
+{items_txt}
+Reason / additional information: {reason}
+Order check: {order_check}
+IP: {ip}
+
+Statement: “I hereby give notice that I withdraw from the sales contract relating to the order and products listed.”
+
+{shop_name} - {shop_url}

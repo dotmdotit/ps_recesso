@@ -1,0 +1,19 @@
+RICEVUTA DELLA DICHIARAZIONE DI RECESSO
+
+Gentile {customer_name},
+confermiamo di aver ricevuto la tua dichiarazione di recesso, inviata tramite la funzione online del nostro sito. Conserva questa email: è la ricevuta della tua richiesta.
+
+Numero richiesta: #{request_id}
+Data e ora di invio: {submitted_at}
+Ordine: {order_line}
+Consumatore: {customer_name}
+Email: {customer_email}
+Prodotti:
+{items_txt}
+Motivo / informazioni aggiuntive: {reason}
+
+Dichiarazione: “Con la presente comunico il recesso dal contratto di vendita relativo all’ordine e ai prodotti indicati.”
+
+Ti contatteremo a breve con le istruzioni per la restituzione dei prodotti. Il rimborso verrà effettuato entro 14 giorni dal ricevimento della dichiarazione, con lo stesso metodo di pagamento usato per l’acquisto; possiamo trattenerlo finché non riceviamo i prodotti o la prova della loro spedizione.
+
+{shop_name} - {shop_url}

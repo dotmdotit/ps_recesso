@@ -1,0 +1,19 @@
+RECEIPT OF YOUR WITHDRAWAL STATEMENT
+
+Dear {customer_name},
+we confirm that we have received your withdrawal statement, sent through the online function on our website. Please keep this email: it is the receipt of your request.
+
+Request number: #{request_id}
+Date and time sent: {submitted_at}
+Order: {order_line}
+Consumer: {customer_name}
+Email: {customer_email}
+Products:
+{items_txt}
+Reason / additional information: {reason}
+
+Statement: “I hereby give notice that I withdraw from the sales contract relating to the order and products listed.”
+
+We will contact you shortly with instructions for returning the products. The refund will be made within 14 days of receiving your statement, using the same payment method as the purchase; we may withhold it until we receive the products or proof that they have been sent back.
+
+{shop_name} - {shop_url}

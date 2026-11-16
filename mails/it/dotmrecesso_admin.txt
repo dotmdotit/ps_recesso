@@ -1,0 +1,18 @@
+NUOVA DICHIARAZIONE DI RECESSO ONLINE
+
+Un cliente ha esercitato il diritto di recesso tramite la funzione “Recedere dal contratto qui”. Rispondendo a questa email scrivi direttamente al cliente.
+
+Numero richiesta: #{request_id}
+Data e ora di invio: {submitted_at}
+Ordine: {order_line}
+Consumatore: {customer_name}
+Email: {customer_email}
+Prodotti:
+{items_txt}
+Motivo / informazioni aggiuntive: {reason}
+Verifica ordine: {order_check}
+IP: {ip}
+
+Dichiarazione: “Con la presente comunico il recesso dal contratto di vendita relativo all’ordine e ai prodotti indicati.”
+
+{shop_name} - {shop_url}
