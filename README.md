@@ -30,10 +30,10 @@ Serve per l'**art. 54-bis del Codice del Consumo** (d.lgs. 209/2025, che recepis
 ## Installazione
 
 1. Scarica la repo (*Code → Download ZIP*, oppure una release).
-2. La cartella del modulo **deve chiamarsi `dotmrecesso`**. Se lo ZIP di GitHub contiene una cartella come `dotmrecesso-main`, rinominala e ricrea lo ZIP:
+2. La cartella del modulo **deve chiamarsi `dotmrecesso`**. Lo ZIP di GitHub contiene la cartella `ps_recesso-main`: rinominala e ricrea lo ZIP:
    ```sh
-   unzip dotmrecesso-main.zip && mv dotmrecesso-main dotmrecesso
-   zip -r dotmrecesso.zip dotmrecesso -x '*.git*' -x '*/CLAUDE.md'
+   unzip ps_recesso-main.zip && mv ps_recesso-main dotmrecesso
+   zip -r dotmrecesso.zip dotmrecesso -x '*.git*'
    ```
 3. In back office: *Moduli → Gestione moduli → Carica un modulo* e scegli `dotmrecesso.zip`.
    In alternativa copia la cartella in `modules/dotmrecesso/` sul server e installa il modulo dal Gestore moduli.
