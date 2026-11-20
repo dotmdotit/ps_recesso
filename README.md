@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" width="96" alt="dotmrecesso"></p>
+<p align="center"><img src="logo.svg?v=2" width="96" alt="dotmrecesso"></p>
 
 # dotmrecesso — Recesso online per PrestaShop
 
